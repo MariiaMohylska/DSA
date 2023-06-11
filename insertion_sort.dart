@@ -1,7 +1,3 @@
-import 'dart:math';
-
-import 'heap_sort.dart';
-
 void main() {
   final array = [10, 7, -2, 12, 55, 24, 200];
   print("Initial array:\n $array");
